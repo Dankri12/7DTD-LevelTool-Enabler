@@ -1,4 +1,4 @@
-# 📥 Step 2  -  Download Files
+# 4️⃣ Step 4  -  Download Files
 
 Head over to [Github](https://github.com/Dankri12/7DTD-LevelTool-Enabler) and download the lastest release .zip file. extract it and you should have no a assembly file .dll and a file named windows .xml. \
 \

@@ -1,7 +1,10 @@
 # Table of contents
 
 * [🎮 7 days to die - LevelToolEnabler](README.md)
-* [‼️ step 1 - important](step-1-important.md)
-* [📥 Step 2  -  Download Files](step-2-download-files.md)
-* [🔁 Step 3 - Revert back to default](step-3-revert-back-to-default.md)
+* [1️⃣ step 1 - Disable Anti-Cheat](step-1-disable-anti-cheat.md)
+* [2️⃣ step 2 - Backup Your Game Files](step-2-backup-your-game-files.md)
+* [3️⃣ step 3 - Disclaimer](step-3-disclaimer.md)
+* [4️⃣ Step 4  -  Download Files](step-4-download-files.md)
+* [5️⃣ step 5 - Replace files](step-5-replace-files.md)
+* [🔁 Revert back to default](revert-back-to-default.md)
 * [🎉 Finished](finished.md)
