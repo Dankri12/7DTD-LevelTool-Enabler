@@ -26,6 +26,6 @@ This tool modifies the games game code to unlock these features, providing you w
 * Enable "Fill Selection" button
 * Easy to use: Just drag and drop!
 
-####
+
 
 #### Lets get started!
