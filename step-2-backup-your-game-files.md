@@ -1,4 +1,4 @@
-# 2️⃣ step 2 - Backup Your Game Files
+# 💾 step 2 - Backup Your Game Files
 
 Backup Your Game Files 💾
 

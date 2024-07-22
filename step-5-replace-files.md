@@ -1,4 +1,4 @@
-# 🔧 5️⃣ step 5 - Replace files
+# 🔧 step 5 - Replace files
 
 &#x20;**Replacing `windows.xml`**
 

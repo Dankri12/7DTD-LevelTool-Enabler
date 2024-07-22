@@ -1,4 +1,4 @@
-# 1️⃣ step 1 - Disable Anti-Cheat
+# ❌ step 1 - Disable Anti-Cheat
 
 #### Disable Anti-Cheat ❌
 
