@@ -56,7 +56,7 @@ As you might have noticed, when you enable the level tool in a survival world in
 
 ### How It Works 🛠️
 
-This tool modifies the games code to unlock these features. the reason its not found in windows.xml file is because when you switch gamemodes the check is implemented in the games code in order to check if you are in prefab or in survival therefore the check gets valid when prefab editor and denied when in survival&#x20;
+This tool modifies the games code to unlock these features. the reason its not found in windows.xml file is because when you switch gamemodes the check is implemented in the games code rather than a config file
 
 ### Features 🌟
 
