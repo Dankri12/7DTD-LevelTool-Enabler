@@ -28,7 +28,7 @@ As you might have noticed, when you enable the level tool in a survival world in
 ### FAQ
 
 * **Does this work on a server?**\
-  &#x20;_And the answer is yes but the cons of disabling eac. Head over to server setup for the guide on server_\
+  &#x20;_And the answer is `YES!` There was a error where the ui did not work on the server and was causing the null error i have fixed that aswell_ \
 
 * **Do I need to disable Easy Anti-Cheat (EAC) to use this mod?**\
   Yes, you need to disable EAC to use this mod as it modifies the game's code. Carefully follow the guide\
@@ -40,7 +40,7 @@ As you might have noticed, when you enable the level tool in a survival world in
   _Follow the detailed installation instructions provided here_\
 
 * **I encountered a problem. What should I do?**\
-  _Check the Issues section on the GitHub repository to see if your problem has already been reported. If not, feel free to open a new issue describing your problem in detail._
+  _Check the Issues section on the GitHub repository to see if your problem has already been reported. If not, feel free to open a new issue describing your problem in detail. Try to solve the problem yourself before reporting the problem as im not your babysitter_&#x20;
 
 
 
